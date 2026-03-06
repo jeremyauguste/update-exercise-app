@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/update-exercise-app/static/css/main.39bffe09.css",
+    "main.js": "/update-exercise-app/static/js/main.45ea3f56.js",
+    "static/js/453.227707b5.chunk.js": "/update-exercise-app/static/js/453.227707b5.chunk.js",
+    "static/media/running.jpg": "/update-exercise-app/static/media/running.277adf6e8a96fd747837.jpg",
+    "static/media/squats.jpg": "/update-exercise-app/static/media/squats.492eb9135422c51057c5.jpg",
+    "static/media/pushUps.jpg": "/update-exercise-app/static/media/pushUps.edd0bd1f01dfc401f7c2.jpg",
+    "static/media/jumpingJacks.jpg": "/update-exercise-app/static/media/jumpingJacks.31d84650fef22b996c50.jpg",
+    "static/media/breathing.jpg": "/update-exercise-app/static/media/breathing.bf3514872aebda5e6081.jpg",
+    "static/media/planks.webp": "/update-exercise-app/static/media/planks.54b7b60c02f0a8779c17.webp",
+    "index.html": "/update-exercise-app/index.html",
+    "main.39bffe09.css.map": "/update-exercise-app/static/css/main.39bffe09.css.map",
+    "main.45ea3f56.js.map": "/update-exercise-app/static/js/main.45ea3f56.js.map",
+    "453.227707b5.chunk.js.map": "/update-exercise-app/static/js/453.227707b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39bffe09.css",
+    "static/js/main.45ea3f56.js"
+  ]
+}
